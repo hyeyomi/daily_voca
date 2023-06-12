@@ -1,0 +1,78 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    }
+  ],
+  "words": [
+    {
+      "id": 2,
+      "day": "1",
+      "eng": "cute",
+      "kor": "귀여운",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": "2",
+      "eng": "love",
+      "kor": "사랑",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": "2",
+      "eng": "plane",
+      "kor": "비행기",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": "3",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "2",
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "3",
+      "eng": "bed",
+      "kor": "침대",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "4",
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false,
+      "id": 11
+    }
+  ]
+}
